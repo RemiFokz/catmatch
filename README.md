@@ -1,6 +1,6 @@
 # Vite TypeScript Pixi.js Template
 
-**Vite TypeScript Pixi.js Template** is a minimal, pre-configured project template that seamlessly integrates [Vite](https://vitejs.dev/), [TypeScript](https://www.typescriptlang.org/), and [Pixi.js](https://pixijs.com/) for building interactive web applications and games. It includes a link to the Normalize.css CDN and runs on port 3030 by default.
+**Vite TypeScript Pixi.js Template** is a minimal, pre-configured project template that seamlessly integrates [Vite](https://vitejs.dev/), [TypeScript](https://www.typescriptlang.org/), and [Pixi.js](https://pixijs.com/) for building interactive web applications and games. It includes a link to the _Normalize.css_ CDN and runs on port **3030** by default.
 
 ## Quick Start
 
@@ -18,7 +18,7 @@ To get started with this template, follow these simple steps:
    npm run dev
    ```
 
-3. Build for prodution
+3. Build for production
 
    ```bash
    npm run build
