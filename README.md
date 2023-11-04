@@ -9,5 +9,17 @@ To get started with this template, follow these simple steps:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/vite-typescript-pixijs-template.git
+   git clone https://github.com/RemiFokz/vite-typescript-pixijs-template.git
+   ```
+
+2. Run dev server on local machine:
+
+   ```bash
+   npm run dev
+   ```
+
+3. Build for prodution
+
+   ```bash
+   npm run build
    ```
