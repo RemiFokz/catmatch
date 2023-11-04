@@ -1,8 +1,17 @@
 {
   "name": "fokz-vite-ts-pixi-template",
+  "author": "RemiFokz",
   "private": true,
   "version": "0.0.1",
   "type": "module",
+  "keywords": [
+    "pixi.js",
+    "vite",
+    "ts",
+    "typescript",
+    "pixi template"
+  ],
+  "license": "MIT",
   "scripts": {
     "dev": "vite --port 3030",
     "build": "tsc && vite build",
